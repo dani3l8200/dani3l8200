@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 ---
 
+## Spotify Playing 🎧
+
+[<img src="https://spotify-listen-ruddy.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/b5s49nnneyb69rd99dhd982x2)
+
+---
 
 ## Connect with me:
 
