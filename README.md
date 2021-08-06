@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-## I'm student, currently finishing my 7th semester of systems engineering at the University of San Carlos of Guatemala
+## I'm student, currently starting my 8th semester of systems engineering at the University of San Carlos of Guatemala
 
 - 🔭 I’m currently working on: Nothing, currently studying
 - 🌱 I’m currently learning: Frameworks and Kubernetes
